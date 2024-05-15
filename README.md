@@ -2,6 +2,11 @@
 
 https://github.com/SantiagoFlynnUTN/TestApp/assets/26491668/f660fe49-57a0-4641-ad29-2880589bc25a
 
+Full video journey trough the app:
+
+[![Demo Video](https://github.com/SantiagoFlynnUTN/TestApp/assets/26491668/e0d2a176-c0a9-4e76-a389-14ec6d687825)](https://www.youtube.com/watch?v=fv0dpO_3Yuc)
+
+
 Tech used:
 - MultiModule Clean Arch
 - MVI
