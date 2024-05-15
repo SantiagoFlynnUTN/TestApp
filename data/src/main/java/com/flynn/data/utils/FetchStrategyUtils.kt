@@ -38,7 +38,7 @@ fun <T: Any> fetchDataLocalAndRemote(
                         onResourceUpdated(result)
                     }
                 }
-                    //.onFailure { error -> send(Failed(Error(error))) }
+                    .onFailure { error -> send(Failed(Error(error))) }
             }
         } catch (e: Exception) {
             send(Failed(Error(e.message ?: "Unknown error")))
