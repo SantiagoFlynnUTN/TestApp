@@ -1,6 +1,6 @@
 ### String processor App ###
 
-https://github.com/SantiagoFlynnUTN/TestApp/assets/26491668/f660fe49-57a0-4641-ad29-2880589bc25a
+![Demo](https://github.com/SantiagoFlynnUTN/TestApp/assets/26491668/f660fe49-57a0-4641-ad29-2880589bc25a)
 
 Full video journey trough the app:
 
